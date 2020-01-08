@@ -31,7 +31,6 @@
     singlelinecheck=false
 ]{caption}
 \RequirePackage[
-    pdftex,
     colorlinks=true,
     urlcolor=blue,
     citecolor=black,
