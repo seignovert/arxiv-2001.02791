@@ -1,13 +1,10 @@
 % This is a LaTeX 2e Class file for creating ArXiv preprint
+\pdfoutput=1
 
-\ProvidesClass{arxiv-icarus}[ArXiv Icarus Class]
 \NeedsTeXFormat{LaTeX2e}
+\ProvidesClass{arxiv-icarus}[2020/01/08 Icarus class for arXiv]
 
-% Inherit options of elsarticle
-\DeclareOption*{%
-  \PassOptionsToClass{\CurrentOption}{elsarticle}
-}
-\ProcessOptions\relax
+% Inherit elsarticle with default options
 \LoadClass[preprint,twocolumn,5p,authoryear]{elsarticle}
 
 % Default journal preprint submission
@@ -20,10 +17,6 @@
 \RequirePackage{lineno}
 \RequirePackage{siunitx}
 \RequirePackage{booktabs}
-\RequirePackage{cuted}
-\RequirePackage{titlesec}
-\RequirePackage{afterpage}
-\RequirePackage{xfrac}
 \RequirePackage[version=4]{mhchem}
 \RequirePackage[
     labelfont=bf,
