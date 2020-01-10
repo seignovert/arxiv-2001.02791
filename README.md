@@ -6,13 +6,13 @@ The 3.4 μm absorption of the Titan's stratosphere: contribution of ethane, prop
     ![doi: 10.1016/j.icarus.2019.113571](https://img.shields.io/badge/doi-10.1016%2Fj.icarus.2018.113571-blue.svg)
 ][doi]
 [
-    ![arXiv: 2001.xxxxx](https://img.shields.io/badge/arXiv-2001.xxxxx-orange.svg)
+    ![arXiv: 2001.02791](https://img.shields.io/badge/arXiv-2001.02791-orange.svg)
 ][arxiv]
 [
     ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 ][cc-by-na-sa-4]
 
-_Thibaud Cours, Daniel Cordier, Benoît.~Seignovert, Luca Maltagliati, Ludovic Biennier_
+_Thibaud Cours, Daniel Cordier, Benoît Seignovert, Luca Maltagliati, Ludovic Biennier_
 
 The complex organic chemistry harbored by the atmosphere of Titan has been investigated in depth by Cassini observations.
 Among them, a series of solar occultations performed by the VIMS instrument throughout the 13 years of Cassini revealed a strong absorption centered at 3.4 μm.
@@ -23,5 +23,5 @@ above  ~900 km, and they are recognized as aerosols particles precursors. High s
 individual spectra impede abundances determinations.
 
 [doi]: https://doi.org/10.1016/j.icarus.2019.113571
-[arxiv]: https://arxiv.org/abs/2001.xxxxx
+[arxiv]: https://arxiv.org/abs/2001.02791
 [cc-by-na-sa-4]: https://creativecommons.org/licenses/by-nc-sa/4.0/
